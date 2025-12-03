@@ -470,5 +470,3 @@ int main() {
 }
 
 
-
-//std::cout << "\033[34m#\033[0m";   for coloring bricks
